@@ -1,0 +1,138 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 1rem;
+}
+header{
+    position: relative;
+    display: flex;
+    flex-direction: column;/**/
+    justify-content: left;
+    width: 100%;
+    height: 75px;
+    min-width: 320px;
+    background-color: #e91616;
+}
+
+header img{
+    width: 125px;
+    height: 75px;
+
+}
+
+header div{
+    color: black;
+    align-items: flex-end;
+}
+
+.botones {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    background-color: #ec1212;
+    height: 80px;
+    width: 100px;
+
+    
+}
+
+main{
+    width: 100%;
+    height: auto;
+    background-color: #1F618D;
+}
+.Rojos-img-container{
+    display: flex;
+    width: 100%;
+    min-width: 320px;
+    height: 50vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: none;
+}
+.Rojos-card{
+    padding-bottom: 1rem;
+    width: 500px;
+    height: 300;
+    margin: 25px auto;
+    padding: 15px;
+    background-color: #df1212;
+    border-radius: 5px;
+}
+.Rojos-card img{
+    width: 100%;
+    height: 25rem;
+    box-shadow: 6.5px 6.5px 15px rgb(0,0,0,0.9);
+    border-radius: 5px;
+}
+.footer-img-background{
+    width: 100%;
+    height: 70rem;
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+    margin: 1.5rem;
+}
+footer{
+    display: flex;
+    width: 100%;
+    height: 10rem;
+    background-color: #F1A84A;
+}
+footer section{
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+.footer-left{
+    display: flex;
+}
+.footer-left ul{
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 2rem;
+    list-style: none;
+
+}
+.footer-left ul li{
+    margin: 0.7rem;
+}
+.footer-right img{
+    width: 35%;
+    align-items: flex-end;
+}
+img{
+    width: 1600px;
+    height: 1000px;
+    background-position: right;
+}
+
+.Municipal-match{
+    padding-bottom: 1rem;
+    width: 10px;
+    height: 100%;
+    margin: 25px auto;
+    padding: 15px;
+    background-color: #922F2F;
+    border-radius: 5px;
+}
+.Municipal-match img{
+    width: 500px;
+    height: 300px;
+    box-shadow: 6.5px 6.5px 15px rgb(0,0,0,0.9);
+    border-radius: 5px;
+}
+
+.Municipal-match{
+    padding-bottom: 1rem;
+    width: 535px;
+    height: 300px;
+    margin: 25px auto;
+    padding: 15px;
+    background-color: #922F2F;
+    border-radius: 5px;
+}
+

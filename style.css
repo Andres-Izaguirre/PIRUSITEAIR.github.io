@@ -1,0 +1,43 @@
+.container-matches{
+    background-color: #1F618D;
+}
+
+.Municipal-match{
+    padding-bottom: 1rem;
+    width: 10px;
+    height: 100%;
+    margin: 25px auto;
+    padding: 15px;
+    background-color: #922F2F;
+    border-radius: 5px;
+    background-color:  #1F618D;
+}
+.Municipal-match img{
+    width: 500px;
+    height: 300px;
+    box-shadow: 6.5px 6.5px 15px rgb(0,0,0,0.9);
+    border-radius: 5px;
+}
+
+.Municipal-match{
+    padding-bottom: 1rem;
+    width: 535px;
+    height: 300px;
+    margin: 25px auto;
+    padding: 15px;
+    background-color: #922F2F;
+    border-radius: 5px;
+}
+.botones {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    background-color: #ec1212;
+    height: 80px;
+    width: 100px;
+
+    
+}
+main{
+    width: 100%;
+    height: auto;
+    background-color: #1F618D;
